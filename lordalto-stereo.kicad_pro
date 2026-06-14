@@ -648,7 +648,7 @@
         "uuid": "2a301b58-646d-43ef-90e5-21c6e30fbc64"
       }
     ],
-    "used_designators": "SonyHarness1",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
@@ -663,6 +663,10 @@
     [
       "18380d81-4bd5-46a9-888e-2ca570ca5f85",
       "Single Ended to Differential Converter"
+    ],
+    [
+      "0e8c1edf-c28f-4461-82ce-651b563d1fca",
+      "Power Stage"
     ]
   ],
   "text_variables": {},

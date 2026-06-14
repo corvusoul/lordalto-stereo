@@ -3,4 +3,5 @@
 	(lib (name "OPA1633") (type "KiCad") (uri "${KIPRJMOD}/Libraries/ul_POPA1633DR/KiCADv6/2026-04-25_11-09-00.kicad_sym") (options "") (descr "Fully Differential Op Amp from TI"))
 	(lib (name "TPA3116D2") (type "KiCad") (uri "${KIPRJMOD}/Libraries/ul_TPA3116D2DAD/KiCADv6/2026-04-28_13-09-22.kicad_sym") (options "") (descr "Class D Power Amplifier from TI"))
 	(lib (name "sony_harness") (type "KiCad") (uri "${KIPRJMOD}/Libraries/Sony_Harness/sony_harness.kicad_sym") (options "") (descr ""))
+	(lib (name "LMR51450") (type "KiCad") (uri "${KIPRJMOD}/Libraries/ul_LMR51450FNDRRR/KiCADv6/2026-06-14_11-31-39.kicad_sym") (options "") (descr "Buck Converter from TI"))
 )

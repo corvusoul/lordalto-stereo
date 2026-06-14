@@ -1433,6 +1433,52 @@
 		)
 	)
 	(sheet
+		(at 69.85 156.845)
+		(size 76.835 29.845)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "0e8c1edf-c28f-4461-82ce-651b563d1fca")
+		(property "Sheetname" "Power Stage"
+			(at 69.85 156.1334 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_stage.kicad_sch"
+			(at 69.85 187.2746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "lordalto-stereo"
+				(path "/2a301b58-646d-43ef-90e5-21c6e30fbc64"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 116.205 70.485)
 		(size 50.165 58.42)
 		(exclude_from_sim no)
